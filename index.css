@@ -45,3 +45,14 @@ a {
 }
 
 
+.foot {
+    
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+padding: 10px;
+}
+.media{
+    color: white;
+    font-size: 25px;
+}
