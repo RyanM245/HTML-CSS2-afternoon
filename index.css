@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 70%;
+}
+
+a {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    margin: auto;
+    color: white;
+    padding: 10px;      
+}
+#Space{
+    font-size: 35px;
+}
+
+.img{
+    width: 100vw;
+    height: 100vh;   
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+
+#img1{
+    background-image:url("https://www.spacex.com/static/images/backgrounds/starlinkstreak_desktop.webp") ;
+}
+#img2{
+    background-image: url("https://www.spacex.com/static/images/backgrounds/gps3_launch_desktop_02.webp");
+}
+
+#img3{
+    background-image: url("https://www.spacex.com/static/images/backgrounds/home_demo2.webp");
+}
+
+#img4{
+    background-image: url("https://www.spacex.com/static/images/backgrounds/home_moon.webp");
+}
+
+
